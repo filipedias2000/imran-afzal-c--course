@@ -1,0 +1,7 @@
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe.config
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.pdb
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.AssemblyReference.cache
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.exe
+C:\Users\diasf\source\repos\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.pdb

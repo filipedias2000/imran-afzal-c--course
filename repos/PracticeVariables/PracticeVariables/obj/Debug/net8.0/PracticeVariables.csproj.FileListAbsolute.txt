@@ -1,0 +1,14 @@
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\bin\Debug\net8.0\PracticeVariables.exe
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\bin\Debug\net8.0\PracticeVariables.deps.json
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\bin\Debug\net8.0\PracticeVariables.runtimeconfig.json
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\bin\Debug\net8.0\PracticeVariables.dll
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\bin\Debug\net8.0\PracticeVariables.pdb
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.AssemblyInfoInputs.cache
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.AssemblyInfo.cs
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.dll
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\refint\PracticeVariables.dll
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.pdb
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\PracticeVariables.genruntimeconfig.cache
+C:\Users\diasf\source\repos\PracticeVariables\PracticeVariables\obj\Debug\net8.0\ref\PracticeVariables.dll

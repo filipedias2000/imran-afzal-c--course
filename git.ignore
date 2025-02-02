@@ -1,0 +1,13 @@
+# Ignore build and compiled files
+bin/
+obj/
+*.dll
+*.exe
+
+# Ignore user-specific VS files
+*.suo
+*.user
+*.vs
+
+# Ignore environment files
+.env

@@ -1,0 +1,7 @@
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\bin\Debug\C#ProgramStructure.exe.config
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\bin\Debug\C#ProgramStructure.exe
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\bin\Debug\C#ProgramStructure.pdb
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\obj\Debug\C#ProgramStructure.csproj.AssemblyReference.cache
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\obj\Debug\C#ProgramStructure.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\obj\Debug\C#ProgramStructure.exe
+C:\Users\diasf\source\repos\C#ProgramStructure\C#ProgramStructure\obj\Debug\C#ProgramStructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\bin\Debug\net8.0\ExerciseAssigning&ValidatingRanges.exe
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\bin\Debug\net8.0\ExerciseAssigning&ValidatingRanges.deps.json
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\bin\Debug\net8.0\ExerciseAssigning&ValidatingRanges.runtimeconfig.json
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\bin\Debug\net8.0\ExerciseAssigning&ValidatingRanges.dll
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\bin\Debug\net8.0\ExerciseAssigning&ValidatingRanges.pdb
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.AssemblyInfoInputs.cache
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.AssemblyInfo.cs
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.dll
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\refint\ExerciseAssigning&ValidatingRanges.dll
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.pdb
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ExerciseAssigning&ValidatingRanges.genruntimeconfig.cache
+C:\Users\diasf\source\repos\ExerciseAssigning&ValidatingRanges\ExerciseAssigning&ValidatingRanges\obj\Debug\net8.0\ref\ExerciseAssigning&ValidatingRanges.dll

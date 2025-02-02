@@ -1,0 +1,14 @@
+C:\Users\diasf\source\repos\CharVsString\CharVsString\bin\Debug\net8.0\CharVsString.exe
+C:\Users\diasf\source\repos\CharVsString\CharVsString\bin\Debug\net8.0\CharVsString.deps.json
+C:\Users\diasf\source\repos\CharVsString\CharVsString\bin\Debug\net8.0\CharVsString.runtimeconfig.json
+C:\Users\diasf\source\repos\CharVsString\CharVsString\bin\Debug\net8.0\CharVsString.dll
+C:\Users\diasf\source\repos\CharVsString\CharVsString\bin\Debug\net8.0\CharVsString.pdb
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.AssemblyInfoInputs.cache
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.AssemblyInfo.cs
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.dll
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\refint\CharVsString.dll
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.pdb
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\CharVsString.genruntimeconfig.cache
+C:\Users\diasf\source\repos\CharVsString\CharVsString\obj\Debug\net8.0\ref\CharVsString.dll

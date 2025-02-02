@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\ternaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\ternaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\comparisonoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\comparisonoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\assignmentoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\assignmentoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\oroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\oroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\logicaloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\logicaloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|c:\\users\\diasf\\source\\repos\\conditionalstatementifthen\\conditionalstatementifthen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDD12B9-DE90-4E2A-8AD1-B63BE75EC52F}|ConditionalStatementIfThen\\ConditionalStatementIfThen.csproj|solutionrelative:conditionalstatementifthen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TernaryOperator.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\TernaryOperator.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\TernaryOperator.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\TernaryOperator.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\TernaryOperator.cs",
+              "ViewState": "AgIAAAcAAABwM/A/sXotwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:41:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComparisonOperators.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\ComparisonOperators.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\ComparisonOperators.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\ComparisonOperators.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\ComparisonOperators.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:10:18.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentOperator.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\AssignmentOperator.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\AssignmentOperator.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\AssignmentOperator.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\AssignmentOperator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:51:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrOperator.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\OrOperator.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\OrOperator.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\OrOperator.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\OrOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:32:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogicalOperators.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\LogicalOperators.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\LogicalOperators.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\LogicalOperators.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\LogicalOperators.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:12:44.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionalStatementIfThen\\Program.cs",
+              "ToolTip": "C:\\Users\\diasf\\source\\repos\\ConditionalStatementIfThen\\ConditionalStatementIfThen\\Program.cs",
+              "RelativeToolTip": "ConditionalStatementIfThen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:49:22.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

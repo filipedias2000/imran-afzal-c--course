@@ -1,0 +1,14 @@
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\bin\Debug\net8.0\TypeCastingInC#.exe
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\bin\Debug\net8.0\TypeCastingInC#.deps.json
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\bin\Debug\net8.0\TypeCastingInC#.runtimeconfig.json
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\bin\Debug\net8.0\TypeCastingInC#.dll
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\bin\Debug\net8.0\TypeCastingInC#.pdb
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.AssemblyInfoInputs.cache
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.AssemblyInfo.cs
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.dll
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\refint\TypeCastingInC#.dll
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.pdb
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\TypeCastingInC#.genruntimeconfig.cache
+C:\Users\diasf\source\repos\TypeCastingInC#\TypeCastingInC#\obj\Debug\net8.0\ref\TypeCastingInC#.dll

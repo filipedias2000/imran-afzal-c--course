@@ -1,0 +1,7 @@
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\obj\Debug\ConditionalStatementIfThen.csproj.AssemblyReference.cache
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\obj\Debug\ConditionalStatementIfThen.csproj.CoreCompileInputs.cache
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\bin\Debug\ConditionalStatementIfThen.exe.config
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\bin\Debug\ConditionalStatementIfThen.exe
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\bin\Debug\ConditionalStatementIfThen.pdb
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\obj\Debug\ConditionalStatementIfThen.exe
+C:\Users\diasf\source\repos\ConditionalStatementIfThen\ConditionalStatementIfThen\obj\Debug\ConditionalStatementIfThen.pdb
