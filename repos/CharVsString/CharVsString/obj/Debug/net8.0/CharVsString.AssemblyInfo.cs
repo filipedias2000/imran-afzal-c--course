@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharVsString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cdce1ba4ed5351c18d4255a2c91f58023e15687")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharVsString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharVsString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

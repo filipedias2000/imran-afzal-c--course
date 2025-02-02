@@ -7,7 +7,7 @@ obj/
 # Ignore user-specific VS files
 *.suo
 *.user
-*.vs
+.vs/  # This properly ignores the entire .vs folder
 
 # Ignore environment files
 .env

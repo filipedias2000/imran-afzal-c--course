@@ -28,6 +28,9 @@ namespace ArithmeticOperators
             double pointNumber = 5.5;
             pointNumber += 4.5;
             Console.WriteLine(pointNumber); 
+            // Comment to see if pushing from this computer to GitHub works
+
+
         }
     }
 }
