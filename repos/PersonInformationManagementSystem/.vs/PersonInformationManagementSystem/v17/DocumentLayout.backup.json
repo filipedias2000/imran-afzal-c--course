@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\PersonInformationManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D313E7-713A-4096-AAF2-5EB0843D8FB4}|PersonInformationManagementSystem\\PersonInformationManagementSystem.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\personinformationmanagementsystem\\personinformationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D313E7-713A-4096-AAF2-5EB0843D8FB4}|PersonInformationManagementSystem\\PersonInformationManagementSystem.csproj|solutionrelative:personinformationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D313E7-713A-4096-AAF2-5EB0843D8FB4}|PersonInformationManagementSystem\\PersonInformationManagementSystem.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\personinformationmanagementsystem\\personinformationmanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D313E7-713A-4096-AAF2-5EB0843D8FB4}|PersonInformationManagementSystem\\PersonInformationManagementSystem.csproj|solutionrelative:personinformationmanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\PersonInformationManagementSystem\\PersonInformationManagementSystem\\Person.cs",
+              "RelativeDocumentMoniker": "PersonInformationManagementSystem\\Person.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\PersonInformationManagementSystem\\PersonInformationManagementSystem\\Person.cs",
+              "RelativeToolTip": "PersonInformationManagementSystem\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:54:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\PersonInformationManagementSystem\\PersonInformationManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PersonInformationManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\PersonInformationManagementSystem\\PersonInformationManagementSystem\\Program.cs",
+              "RelativeToolTip": "PersonInformationManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:54:18.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

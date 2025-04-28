@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\arraycollection\\arraycollection\\hotpotatogamesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\hotpotatogamesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\employeerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\employeerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\dictionaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\dictionaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\arraylistandlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\arraylistandlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\reversingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\reversingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\minimumandmaximum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\minimumandmaximum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\arraycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCF780-BB61-4396-A944-72F31B852297}|ArrayCollection\\ArrayCollection.csproj|solutionrelative:arraycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotPotatoGameSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\HotPotatoGameSimulation.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\HotPotatoGameSimulation.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\HotPotatoGameSimulation.cs",
+              "RelativeToolTip": "ArrayCollection\\HotPotatoGameSimulation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:33:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRecordManager.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\EmployeeRecordManager.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\EmployeeRecordManager.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\EmployeeRecordManager.cs",
+              "RelativeToolTip": "ArrayCollection\\EmployeeRecordManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:33:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionaries.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\Dictionaries.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\Dictionaries.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\Dictionaries.cs",
+              "RelativeToolTip": "ArrayCollection\\Dictionaries.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:25:00.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayListAndLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\ArrayListAndLinkedList.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\ArrayListAndLinkedList.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\ArrayListAndLinkedList.cs",
+              "RelativeToolTip": "ArrayCollection\\ArrayListAndLinkedList.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:07:48.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReversingArray.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\ReversingArray.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\ReversingArray.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\ReversingArray.cs",
+              "RelativeToolTip": "ArrayCollection\\ReversingArray.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:05:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinimumAndMaximum.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\MinimumAndMaximum.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\MinimumAndMaximum.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\MinimumAndMaximum.cs",
+              "RelativeToolTip": "ArrayCollection\\MinimumAndMaximum.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:48:15.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\ArrayCollection\\ArrayCollection\\Program.cs",
+              "RelativeToolTip": "ArrayCollection\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:37:58.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

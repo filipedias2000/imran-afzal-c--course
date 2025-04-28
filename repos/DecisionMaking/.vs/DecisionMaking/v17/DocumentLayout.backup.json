@@ -1,29 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\",
+  "WorkspaceRootPath": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\switchstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\switchstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\decisionmaking\\decisionmaking\\enhancedswitch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\enhancedswitch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\nestedifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\nestedifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\decisionmaking\\decisionmaking\\enhancedswitchstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\enhancedswitchstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\ladderifelseexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\ladderifelseexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\ladderifelseexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\ladderifelseexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\ladderifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\ladderifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\diasf\\source\\repos\\decisionmaking\\decisionmaking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\decisionmaking\\decisionmaking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{126E7282-2213-4EC5-9512-9AC93EF354C3}|DecisionMaking\\DecisionMaking.csproj|solutionrelative:decisionmaking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,79 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SwitchStatement.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\SwitchStatement.cs",
-              "RelativeDocumentMoniker": "DecisionMaking\\SwitchStatement.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\SwitchStatement.cs",
-              "RelativeToolTip": "DecisionMaking\\SwitchStatement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Title": "EnhancedSwitch2.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\EnhancedSwitch2.cs",
+              "RelativeDocumentMoniker": "DecisionMaking\\EnhancedSwitch2.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\EnhancedSwitch2.cs",
+              "RelativeToolTip": "DecisionMaking\\EnhancedSwitch2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T10:07:36.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NestedIfElse.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\NestedIfElse.cs",
-              "RelativeDocumentMoniker": "DecisionMaking\\NestedIfElse.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\NestedIfElse.cs",
-              "RelativeToolTip": "DecisionMaking\\NestedIfElse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAewBoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:43:03.542Z",
+              "WhenOpened": "2025-02-02T19:54:45.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LadderIfElseExercise2.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElseExercise2.cs",
-              "RelativeDocumentMoniker": "DecisionMaking\\LadderIfElseExercise2.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElseExercise2.cs",
-              "RelativeToolTip": "DecisionMaking\\LadderIfElseExercise2.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwCsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:27:04.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LadderIfElseExercise.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElseExercise.cs",
-              "RelativeDocumentMoniker": "DecisionMaking\\LadderIfElseExercise.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElseExercise.cs",
-              "RelativeToolTip": "DecisionMaking\\LadderIfElseExercise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:23:07.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LadderIfElse.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElse.cs",
-              "RelativeDocumentMoniker": "DecisionMaking\\LadderIfElse.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\LadderIfElse.cs",
-              "RelativeToolTip": "DecisionMaking\\LadderIfElse.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:14:31.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\Program.cs",
               "RelativeDocumentMoniker": "DecisionMaking\\Program.cs",
-              "ToolTip": "C:\\Users\\diasf\\source\\repos\\DecisionMaking\\DecisionMaking\\Program.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\Program.cs",
               "RelativeToolTip": "DecisionMaking\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:06:54.541Z",
+              "WhenOpened": "2025-02-02T19:48:12.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnhancedSwitchStatement.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\EnhancedSwitchStatement.cs",
+              "RelativeDocumentMoniker": "DecisionMaking\\EnhancedSwitchStatement.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\DecisionMaking\\DecisionMaking\\EnhancedSwitchStatement.cs",
+              "RelativeToolTip": "DecisionMaking\\EnhancedSwitchStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:41:20.896Z",
               "EditorCaption": ""
             }
           ]

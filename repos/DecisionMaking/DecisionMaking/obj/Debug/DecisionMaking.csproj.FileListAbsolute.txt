@@ -5,3 +5,10 @@ C:\Users\diasf\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaki
 C:\Users\diasf\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
 C:\Users\diasf\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
 C:\Users\diasf\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.pdb
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.AssemblyReference.cache
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
+C:\Users\filipe.dias\Desktop\imran-afzal-c--course\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb

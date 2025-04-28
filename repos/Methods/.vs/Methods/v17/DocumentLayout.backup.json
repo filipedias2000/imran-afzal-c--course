@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\methods\\methods\\debuggingtechniques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\debuggingtechniques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\methods\\methods\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\methods\\methods\\calculationfibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\calculationfibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\concatenationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\concatenationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\perimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\perimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\checkpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\checkpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\returnstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\returnstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A511ED0A-0E67-4FE8-9E19-3DB47A1178A7}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebuggingTechniques.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\DebuggingTechniques.cs",
+              "RelativeDocumentMoniker": "Methods\\DebuggingTechniques.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\DebuggingTechniques.cs",
+              "RelativeToolTip": "Methods\\DebuggingTechniques.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:52:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "Methods\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ExceptionHandling.cs",
+              "RelativeToolTip": "Methods\\ExceptionHandling.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:21:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationFibonacciSeries.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\CalculationFibonacciSeries.cs",
+              "RelativeDocumentMoniker": "Methods\\CalculationFibonacciSeries.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\CalculationFibonacciSeries.cs",
+              "RelativeToolTip": "Methods\\CalculationFibonacciSeries.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:36:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcatenationStrings.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ConcatenationStrings.cs",
+              "RelativeDocumentMoniker": "Methods\\ConcatenationStrings.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ConcatenationStrings.cs",
+              "RelativeToolTip": "Methods\\ConcatenationStrings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:29:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Shapes.cs",
+              "RelativeDocumentMoniker": "Methods\\Shapes.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Shapes.cs",
+              "RelativeToolTip": "Methods\\Shapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:13:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MethodOverloading.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\MethodOverloading.cs",
+              "RelativeDocumentMoniker": "Methods\\MethodOverloading.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\MethodOverloading.cs",
+              "RelativeToolTip": "Methods\\MethodOverloading.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:05:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perimiter.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Perimiter.cs",
+              "RelativeDocumentMoniker": "Methods\\Perimiter.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Perimiter.cs",
+              "RelativeToolTip": "Methods\\Perimiter.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:14:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeapYear.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\LeapYear.cs",
+              "RelativeDocumentMoniker": "Methods\\LeapYear.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\LeapYear.cs",
+              "RelativeToolTip": "Methods\\LeapYear.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:38:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "Methods\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\TemperatureConverter.cs",
+              "RelativeToolTip": "Methods\\TemperatureConverter.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:21:50.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckPositions.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\CheckPositions.cs",
+              "RelativeDocumentMoniker": "Methods\\CheckPositions.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\CheckPositions.cs",
+              "RelativeToolTip": "Methods\\CheckPositions.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:02:48.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnStatement.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ReturnStatement.cs",
+              "RelativeDocumentMoniker": "Methods\\ReturnStatement.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\ReturnStatement.cs",
+              "RelativeToolTip": "Methods\\ReturnStatement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:04:50.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:53:07.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

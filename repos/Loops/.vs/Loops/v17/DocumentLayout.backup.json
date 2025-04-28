@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\displaytriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\displaytriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\nestedloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\nestedloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\sumofpositivenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\sumofpositivenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\whileloopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\whileloopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|c:\\users\\filipe.dias\\desktop\\imran-afzal-c--course\\repos\\loops\\loops\\findprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\findprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\loops\\forloopexampletwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\forloopexampletwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDACBDF-86CA-43B0-9EDE-A6AE6DD54EE2}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\DisplayTriangle.cs",
+              "RelativeDocumentMoniker": "Loops\\DisplayTriangle.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\DisplayTriangle.cs",
+              "RelativeToolTip": "Loops\\DisplayTriangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:48:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NestedLoop.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\NestedLoop.cs",
+              "RelativeDocumentMoniker": "Loops\\NestedLoop.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\NestedLoop.cs",
+              "RelativeToolTip": "Loops\\NestedLoop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:42:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumOfPositiveNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\SumOfPositiveNumbers.cs",
+              "RelativeDocumentMoniker": "Loops\\SumOfPositiveNumbers.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\SumOfPositiveNumbers.cs",
+              "RelativeToolTip": "Loops\\SumOfPositiveNumbers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:32:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoWhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\DoWhileLoop.cs",
+              "RelativeDocumentMoniker": "Loops\\DoWhileLoop.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\DoWhileLoop.cs",
+              "RelativeToolTip": "Loops\\DoWhileLoop.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:29:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WhileLoopExample.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\WhileLoopExample.cs",
+              "RelativeDocumentMoniker": "Loops\\WhileLoopExample.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\WhileLoopExample.cs",
+              "RelativeToolTip": "Loops\\WhileLoopExample.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:11:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\WhileLoop.cs",
+              "RelativeDocumentMoniker": "Loops\\WhileLoop.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\WhileLoop.cs",
+              "RelativeToolTip": "Loops\\WhileLoop.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:04:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindPrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\FindPrimeNumbers.cs",
+              "RelativeDocumentMoniker": "Loops\\FindPrimeNumbers.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\FindPrimeNumbers.cs",
+              "RelativeToolTip": "Loops\\FindPrimeNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:47:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForLoopExampleTwo.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\ForLoopExampleTwo.cs",
+              "RelativeDocumentMoniker": "Loops\\ForLoopExampleTwo.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\ForLoopExampleTwo.cs",
+              "RelativeToolTip": "Loops\\ForLoopExampleTwo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:41:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\filipe.dias\\Desktop\\imran-afzal-c--course\\repos\\Loops\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:47:41.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
